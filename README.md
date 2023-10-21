@@ -7,15 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# test
-
-## test
-
-### test
-
-# This is my first Git Hub Cobe
-
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
