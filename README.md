@@ -27,6 +27,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
+# This is an `<h1>` header, which is the largest
+
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
+
+
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
